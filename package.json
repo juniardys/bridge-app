@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-app-router-boilerplate",
+  "name": "bridge-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,15 +11,20 @@
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.1",
     "@phosphor-icons/react": "^2.1.7",
+    "@rainbow-me/rainbowkit": "^2.2.0",
+    "@tanstack/react-query": "^5.60.2",
     "antd": "^5.22.1",
     "axios": "^1.7.7",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
+    "lodash.merge": "^4.6.2",
     "next": "14.2.18",
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
     "tailwind-merge": "^2.5.4",
+    "viem": "^2.21.45",
+    "wagmi": "^2.12.32",
     "zustand": "^5.0.1"
   },
   "devDependencies": {

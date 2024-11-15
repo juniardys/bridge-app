@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${fonts.geistSans.className} ${fonts.geistMono.className} antialiased`}
+        className={`${fonts.geistSans.className} ${fonts.geistMono.className} antialiased text-white`}
       >
         <Toaster />
         <RootProviders>
